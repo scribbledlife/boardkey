@@ -1,6 +1,6 @@
 # Boardkey
 
-A custom 75% (84+5+1) ANSI mechanical keyboard powered by a Raspberry Pi Pico running KMK firmware.
+A custom 75% (84+5+1) mechanical keyboard powered by a Raspberry Pi Pico running KMK firmware.
 
 ## About
 
@@ -15,6 +15,8 @@ A custom 75% (84+5+1) ANSI mechanical keyboard powered by a Raspberry Pi Pico ru
 - 84 regular ANSI keys  
 - 5 programmable macro/layer keys  
 - 1 rotary encoder with integrated push switch
+
+<img width="617" height="227" alt="image" src="https://github.com/user-attachments/assets/ebe9ac20-3f3f-4219-9648-1942e0134938" />
 
 ## Special Keys & Features
 
@@ -32,12 +34,22 @@ A custom 75% (84+5+1) ANSI mechanical keyboard powered by a Raspberry Pi Pico ru
 
 ## Build details (optional sections you can expand)
 
-- Case: 
-- Plate: 
-- Switches: 
-- Keycaps: 
-- Stabilizers: 
-- PCB: handwired 
+- Case: 3D Printed, and looks like the following -
+
+<img width="622" height="206" alt="image" src="https://github.com/user-attachments/assets/a8fc2286-d797-4419-92e8-9ef8c927d5d0" />
+
+<img width="619" height="256" alt="image" src="https://github.com/user-attachments/assets/cc15ee15-985f-4309-b04d-d2f34c0025f0" />
+
+- Plate: Looks like this
+
+<img width="619" height="455" alt="image" src="https://github.com/user-attachments/assets/00875b87-6efc-4760-b83e-27613c728036" />
+
+- Switches: Gateron Milky Yellows
+- Keycaps: PBT Keycaps
+- Stabilizers: 2u and 6.25u Stabilizers
+- PCB:
+
+<img width="605" height="245" alt="image" src="https://github.com/user-attachments/assets/4c8a8589-9770-48e2-9aba-3b216bbe7665" />
 
 ## Firmware
 
@@ -57,6 +69,7 @@ To flash / edit:
 
 ## Gallery
 
+For more images, please go to the images folder, and if you want to see the materials, you can go to 
 
 ## Thanks / Inspiration
 
