@@ -1,4 +1,4 @@
-# krunchboard-90
+# Boardkey
 
 A custom 75% (84+5+1) ANSI mechanical keyboard powered by a Raspberry Pi Pico running KMK firmware.
 
@@ -63,6 +63,4 @@ To flash / edit:
 - Huge shoutout to the KMK community
 - Linus Tech Tips
 - Hack Club Community for the inspiration and help
-- Inspired by [list any boards / people / videos if relevant]
 
-Happy typing! 🥨⌨️
